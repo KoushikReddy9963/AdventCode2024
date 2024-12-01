@@ -5,6 +5,8 @@
 using namespace std;
 #define int int64_t
 #define all(x) x.begin(), x.end()
+#define watch(x) cout << (#x) << " is " << (x) << endl
+
 int32_t main()
 {
     vector<int> a, b;
